@@ -37,3 +37,15 @@
 - Obtención de rankings de patentes y horarios
 - Cálculo de excesos promedio
 - Conteo de multas por ubicación
+
+## Día 5
+- Generación de gráficos de reincidencia de patentes
+- Visualización del porcentaje de infracciones por hora
+- Gráfico de infracciones por mes
+- Gráficos de excesos de velocidad para hora 00:00 y fecha 1932-01-01
+
+## Día 5
+- Generación de gráficos de reincidencia de patentes
+- Visualización del porcentaje de infracciones por hora
+- Gráfico de infracciones por mes
+- Gráficos de excesos de velocidad para hora 00:00 y fecha 1932-01-01
