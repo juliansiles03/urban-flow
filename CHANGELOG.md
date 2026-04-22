@@ -17,3 +17,10 @@
 - Cálculo de exceso de velocidad
 - Eliminación de registros sin infracción
 - Generación del dataset limpio
+
+## Día 4
+- Definición de la clase FineAnalyzer
+- Creación del objeto analizador
+- Obtención de rankings de patentes y horarios
+- Cálculo de excesos promedio
+- Conteo de multas por ubicación
