@@ -8,3 +8,12 @@
 ## Dia 2
 - Descarga del dataset
 - Análisis inicial de datos (head, tipos, valores nulos)
+
+## Día 3
+- Normalización de fechas y horas
+- Limpieza de ubicaciones y patentes
+- Eliminación de valores nulos relevantes
+- Detección y eliminación de outliers
+- Cálculo de exceso de velocidad
+- Eliminación de registros sin infracción
+- Generación del dataset limpio
