@@ -30,3 +30,7 @@
 - Visualización del porcentaje de infracciones por hora
 - Gráfico de infracciones por mes
 - Gráficos de excesos de velocidad para hora 00:00 y fecha 1932-01-01
+
+## Día 6
+- Cálculo de porcentaje de infracciones en fecha 1932-01-01
+- Cálculo de porcentaje de infracciones en hora 00:00
