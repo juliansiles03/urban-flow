@@ -34,3 +34,7 @@
 ## Día 6
 - Cálculo de porcentaje de infracciones en fecha 1932-01-01
 - Cálculo de porcentaje de infracciones en hora 00:00
+
+## Día 7
+- Análisis final del dataset
+- Redacción de conclusiones sobre los datos
