@@ -42,3 +42,10 @@
 - Identificación de imágenes sin coincidencias.
 - Análisis de multas pendientes de pago.
 - Verificación de multas pendientes con imágenes.
+
+## Día 6 - Ejercicio 06
+
+- Redacción de conclusiones finales.
+- Análisis de resultados del OCR.
+- Evaluación de coincidencias entre imágenes y multas.
+- Integración final del procesamiento visual y análisis de datos.

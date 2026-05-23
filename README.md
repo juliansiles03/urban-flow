@@ -1,49 +1,20 @@
-# Urban Flow - Sprint 1
+# Urban Flow - Sprint 2
 
 ## Objetivo
-Analizar los datos de multas por exceso de velocidad y limpiarlos
-para poder usarlos sin errores en un sistema nuevo.
+
+Aplicar técnicas de procesamiento de imágenes y OCR para relacionar
+patentes detectadas con multas del dataset.
 
 ## Introducción y contexto
-El dataset proviene de un sistema viejo de radares en una zona
-de Bélgica que limita con otros países. Como los datos vienen
-de sistemas heredados, tienen problemas como formatos incorrectos,
-valores faltantes y registros inconsistentes.
 
-En este sprint se busca trabajar sobre esos datos para poder
-entenderlos mejor y dejarlos listos para un uso posterior.
+En este sprint se trabajó con imágenes asociadas a infracciones de
+tránsito. Las imágenes fueron clasificadas, procesadas y analizadas
+utilizando técnicas de visión por computadora.
 
-## Sprint actual
-Sprint_1
+A partir de transformaciones como escala de grises, suavizado Gaussian
+Blur y detección de bordes con Canny, se buscó mejorar la calidad de
+las imágenes para posteriormente aplicar OCR sobre las patentes.
 
-## Conclusión
-
-A partir del análisis del dataset se puede observar que existen varias
-patentes con niveles similares de reincidencia, lo que indica que las
-infracciones no están concentradas en un único infractor, sino
-distribuidas entre distintos conductores.
-
-En cuanto a los horarios, se observa una proporción muy alta de
-registros en la hora 00:00. Esto no representa un comportamiento real,
-sino que se debe a que las horas inválidas fueron reemplazadas por ese
-valor durante el proceso de limpieza. Si se deja de lado ese grupo, el
-resto de las infracciones se distribuye de manera bastante pareja entre
-distintas horas del día, sin una concentración tan marcada.
-
-Algo similar ocurre con el análisis por mes, donde enero aparece como el
-mes con mayor cantidad de infracciones. Esto se debe a que muchas fechas
-inválidas fueron reemplazadas por un valor fijo (1932-01-01) durante el
-proceso de limpieza, lo que genera una distorsión en la distribución
-temporal.
-
-Por otro lado, los gráficos de excesos de velocidad muestran una gran
-dispersión en los valores, sin un patrón claro, especialmente en los
-registros asociados a datos inválidos. Esto indica que los datos
-inconsistentes no siguen una lógica definida y aportan ruido al
-análisis.
-
-En resumen, si bien el dataset permite identificar ciertos patrones de
-comportamiento en las infracciones, evidencia numerosos problemas en la
-calidad de los datos. Es por este motivo que considero que no sería una 
-base de datos del todo confiable para sacar conclusiones y realizar 
-predicciones sin antes realizar una limpieza mas profunda. 
+Finalmente, las patentes detectadas fueron comparadas con el dataset de
+multas utilizando un criterio de similitud del 80% o superior, con el
+objetivo de identificar coincidencias válidas entre imágenes y datos.
