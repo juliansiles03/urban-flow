@@ -34,3 +34,11 @@
 - Cálculo de similitud entre patentes.
 - Relación entre OCR y dataset de multas.
 - Generación del dataset final con imágenes.
+
+## Día 5 - Ejercicio 05
+
+- Cálculo de métricas sobre multas e imágenes.
+- Conteo de multas con y sin imágenes.
+- Identificación de imágenes sin coincidencias.
+- Análisis de multas pendientes de pago.
+- Verificación de multas pendientes con imágenes.
