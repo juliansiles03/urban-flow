@@ -118,3 +118,28 @@ perfectos.
 En conclusión, el trabajo permitió integrar procesamiento de imágenes,
 OCR y análisis de datos para construir una aproximación automática de
 validación visual de multas urbanas.
+
+# Ejercicio 06
+
+A lo largo de este trabajo práctico se pudo observar que no todas las
+imágenes asociadas a las multas contienen información útil o legible.
+Del total de imágenes procesadas, varias pudieron relacionarse
+correctamente con registros reales del dataset, aunque también hubo
+casos donde el OCR detectó caracteres incorrectos o texto que no
+correspondía a una patente.
+
+Durante el procesamiento se trabajó con 108 imágenes, separadas en los
+grupos "plates" y "completes". A partir de técnicas como escala de
+grises, suavizado Gaussian Blur y detección de bordes con Canny, se
+logró mejorar parcialmente la detección visual de las patentes.
+
+Además, utilizando una lógica de similitud del 80% o superior, fue
+posible relacionar múltiples imágenes con multas reales, incluso cuando
+existían pequeños errores de OCR. También se detectaron imágenes sin
+coincidencias y multas sin evidencia visual asociada, lo que refleja
+las limitaciones de trabajar con imágenes reales y datos no siempre
+perfectos.
+
+En conclusión, el trabajo permitió integrar procesamiento de imágenes,
+OCR y análisis de datos para construir una aproximación automática de
+validación visual de multas urbanas.
