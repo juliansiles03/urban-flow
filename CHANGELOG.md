@@ -17,3 +17,11 @@
 - Construcción del diccionario group_images.
 - Exportación de group_images en formato JSON.
 - Visualización aleatoria de imágenes originales.
+
+## Día 3 - Ejercicio 03
+
+- Conversión de imágenes a escala de grises.
+- Aplicación de suavizado Gaussian Blur.
+- Detección de bordes utilizando Canny.
+- Almacenamiento de imágenes procesadas.
+- Verificación de imágenes generadas.
