@@ -25,3 +25,12 @@
 - Detección de bordes utilizando Canny.
 - Almacenamiento de imágenes procesadas.
 - Verificación de imágenes generadas.
+
+## Día 4 - Ejercicio 04
+
+- Implementación de OCR con EasyOCR.
+- Limpieza de texto detectado.
+- Extracción de patentes desde imágenes.
+- Cálculo de similitud entre patentes.
+- Relación entre OCR y dataset de multas.
+- Generación del dataset final con imágenes.
