@@ -22,3 +22,9 @@
 - Se definieron las entidades Vehiculo, Multa, Radar y Evidencia.
 - Se representaron las relaciones solicitadas entre las entidades.
 - Se validaron las columnas necesarias del dataset procesado.
+
+## Día 4 - Ejercicio 04
+
+- Se implementó la función procesar_fila_csv.
+- Se mapeó una fila del CSV al modelo lógico definido previamente.
+- Se validó la creación de objetos Multa, Vehiculo, Radar y Evidencia.
