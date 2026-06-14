@@ -35,3 +35,10 @@
 - Se definieron claves primarias para Vehiculo, Multa, Radar y Evidencia.
 - Se incorporaron relaciones entre tablas.
 - Se sobrescribió el método __repr__ para mejorar la legibilidad.
+
+## Día 6 - Ejercicio 06
+
+- Se creó la base de datos transito.db.
+- Se generaron automáticamente las tablas mediante SQLAlchemy.
+- Se migraron los registros desde el CSV procesado.
+- Se validó la cantidad de registros insertados.
