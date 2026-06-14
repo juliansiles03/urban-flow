@@ -28,3 +28,10 @@
 - Se implementó la función procesar_fila_csv.
 - Se mapeó una fila del CSV al modelo lógico definido previamente.
 - Se validó la creación de objetos Multa, Vehiculo, Radar y Evidencia.
+
+## Día 5 - Ejercicio 05
+
+- Se diseñó el modelo relacional con SQLAlchemy ORM.
+- Se definieron claves primarias para Vehiculo, Multa, Radar y Evidencia.
+- Se incorporaron relaciones entre tablas.
+- Se sobrescribió el método __repr__ para mejorar la legibilidad.
