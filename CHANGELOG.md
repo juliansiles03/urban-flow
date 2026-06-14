@@ -2,50 +2,7 @@
 
 ## Día 1 - Ejercicio 01
 
-- Configuración inicial del proyecto.
-- Clonación del repositorio desde GitHub.
-- Creación de la rama Sprint_2.
-- Descarga del dataset de imágenes.
-- Extracción de imágenes en data/raw/imgs.
-- Verificación de archivos cargados.
-- Configuración de control de push con secret.
-
-## Día 2 - Ejercicio 02
-
-- Listado de imágenes disponibles con tamaño en KB.
-- Clasificación de imágenes en grupos plates y completes.
-- Construcción del diccionario group_images.
-- Exportación de group_images en formato JSON.
-- Visualización aleatoria de imágenes originales.
-
-## Día 3 - Ejercicio 03
-
-- Conversión de imágenes a escala de grises.
-- Aplicación de suavizado Gaussian Blur.
-- Detección de bordes utilizando Canny.
-- Almacenamiento de imágenes procesadas.
-- Verificación de imágenes generadas.
-
-## Día 4 - Ejercicio 04
-
-- Implementación de OCR con EasyOCR.
-- Limpieza de texto detectado.
-- Extracción de patentes desde imágenes.
-- Cálculo de similitud entre patentes.
-- Relación entre OCR y dataset de multas.
-- Generación del dataset final con imágenes.
-
-## Día 5 - Ejercicio 05
-
-- Cálculo de métricas sobre multas e imágenes.
-- Conteo de multas con y sin imágenes.
-- Identificación de imágenes sin coincidencias.
-- Análisis de multas pendientes de pago.
-- Verificación de multas pendientes con imágenes.
-
-## Día 6 - Ejercicio 06
-
-- Redacción de conclusiones finales.
-- Análisis de resultados del OCR.
-- Evaluación de coincidencias entre imágenes y multas.
-- Integración final del procesamiento visual y análisis de datos.
+- Se creó la rama Sprint_3 a partir de Sprint_2.
+- Se configuró el repositorio para trabajo versionado.
+- Se verificó el acceso a los datasets generados previamente.
+- Se actualizó la documentación inicial del Sprint 3.
