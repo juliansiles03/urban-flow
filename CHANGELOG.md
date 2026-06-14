@@ -15,3 +15,10 @@
 - Se removió del tracking de Git la carpeta de imágenes de patentes.
 - Se migraron las imágenes de patentes a DVC desde urban_flow/data/raw/imgs/urban_flow_plates.
 - Se enviaron los datos versionados al remote local de DVC.
+
+## Día 3 - Ejercicio 03
+
+- Se diseñó el modelo lógico del dominio.
+- Se definieron las entidades Vehiculo, Multa, Radar y Evidencia.
+- Se representaron las relaciones solicitadas entre las entidades.
+- Se validaron las columnas necesarias del dataset procesado.
