@@ -42,3 +42,12 @@
 - Se generaron automáticamente las tablas mediante SQLAlchemy.
 - Se migraron los registros desde el CSV procesado.
 - Se validó la cantidad de registros insertados.
+
+## Día 7 - Ejercicio 07
+
+- Se implementaron consultas sobre la base de datos transito.
+- Se obtuvo el top 10 de patentes con mayor cantidad de multas.
+- Se listaron multas sin evidencia asociada.
+- Se identificaron los radares con mayor volumen de infracciones.
+- Se calcularon reincidencias por patente en un período dado.
+- Se calculó el porcentaje de multas confirmadas visualmente.
