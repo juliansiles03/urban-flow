@@ -58,3 +58,10 @@
 - Se creó la base vectorial patente_vectorial con ChromaDB.
 - Se vincularon imágenes de evidencia con vehículos de la base relacional.
 - Se poblaron los vectores de imágenes junto con metadata del vehículo.
+
+## Día 9 - Ejercicio 09
+
+- Se implementó la función buscar_patente_imagen.
+- Se generó el vector de consulta con OpenCLIP.
+- Se consultó la base vectorial patente_vectorial.
+- Se recuperaron los datos del vehículo desde la base relacional.
