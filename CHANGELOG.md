@@ -65,3 +65,11 @@
 - Se generó el vector de consulta con OpenCLIP.
 - Se consultó la base vectorial patente_vectorial.
 - Se recuperaron los datos del vehículo desde la base relacional.
+
+## Día 10 - Ejercicio 10
+
+- Se redactó la conclusión final del Sprint 3.
+- Se incorporaron resultados obtenidos durante el análisis.
+- Se documentó la migración a base de datos relacional.
+- Se documentó el uso de DVC para versionado de datos.
+- Se documentó la integración de ChromaDB y OpenCLIP.
